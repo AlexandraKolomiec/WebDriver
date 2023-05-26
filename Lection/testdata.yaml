@@ -1,0 +1,3 @@
+address: https://test-stand.gb.ru
+driver_path: \geckodriver.exe
+sleep_time: 5
